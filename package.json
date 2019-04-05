@@ -1,0 +1,24 @@
+{
+  "name": "mywork",
+  "version": "1.0.0",
+  "description": "database stuff",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sms7182/Bug.git"
+  },
+  "author": "mojtaba safavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sms7182/Bug/issues"
+  },
+  "homepage": "https://github.com/sms7182/Bug#readme",
+  "dependencies": {
+    "mongodb": "^3.2.2",
+    "mongoose": "^5.4.22"
+  }
+}
